@@ -1,1 +1,2 @@
 # Polymorphism-Inheritance-Java
+An assignment that uses superclasses, subclasses, interfaces, abstract classes and concrete classes to make functions with empty bodies, then later adding functionality to them. Also demostrating inhertitance with constructors in the parent and child class, with the child class having 8 constructors for child and parent class instance variables, including a default empty constructor.
